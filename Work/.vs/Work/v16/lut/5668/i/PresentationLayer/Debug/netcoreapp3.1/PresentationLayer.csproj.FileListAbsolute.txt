@@ -1,0 +1,7 @@
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\b\PresentationLayer\Debug\netcoreapp3.1\PresentationLayer.deps.json
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\b\PresentationLayer\Debug\netcoreapp3.1\PresentationLayer.dll
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\i\PresentationLayer\Debug\netcoreapp3.1\PresentationLayer.csprojAssemblyReference.cache
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\i\PresentationLayer\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfoInputs.cache
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\i\PresentationLayer\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfo.cs
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\i\PresentationLayer\Debug\netcoreapp3.1\PresentationLayer.csproj.CopyComplete
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\i\PresentationLayer\Debug\netcoreapp3.1\PresentationLayer.dll

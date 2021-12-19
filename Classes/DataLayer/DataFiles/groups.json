@@ -1,0 +1,162 @@
+[
+  {
+    "Name": "SE-227",
+    "StudentsList": [
+      {
+        "FirstName": "Olga",
+        "LastName": "Lavrinenko",
+        "StudentID": "AA123456",
+        "DisciplinesList": [
+          {
+            "Title": "OOP",
+            "GradesList": [
+              10,
+              40,
+              44
+            ],
+            "FinalGrade": 94
+          },
+          {
+            "Title": "Physics",
+            "GradesList": [
+              60,
+              20
+            ],
+            "FinalGrade": 90
+          }
+        ]
+      },
+      {
+        "FirstName": "Slava",
+        "LastName": "Daniel",
+        "StudentID": "AB111111",
+        "DisciplinesList": [
+          {
+            "Title": "OOP",
+            "GradesList": [
+              85,
+              5
+            ],
+            "FinalGrade": 90
+          },
+          {
+            "Title": "Physics",
+            "GradesList": [
+              70,
+              21
+            ],
+            "FinalGrade": 85
+          }
+        ]
+      },
+      {
+        "FirstName": null,
+        "LastName": null,
+        "StudentID": null,
+        "DisciplinesList": null
+      },
+      {
+        "FirstName": null,
+        "LastName": null,
+        "StudentID": null,
+        "DisciplinesList": null
+      },
+      {
+        "FirstName": null,
+        "LastName": null,
+        "StudentID": null,
+        "DisciplinesList": null
+      },
+      {
+        "FirstName": null,
+        "LastName": null,
+        "StudentID": null,
+        "DisciplinesList": null
+      },
+      {
+        "FirstName": null,
+        "LastName": null,
+        "StudentID": null,
+        "DisciplinesList": null
+      },
+      {
+        "FirstName": null,
+        "LastName": null,
+        "StudentID": null,
+        "DisciplinesList": null
+      }
+    ]
+  },
+  {
+    "Name": "SE-229",
+    "StudentsList": [
+      {
+        "FirstName": "Maria",
+        "LastName": "Koval",
+        "StudentID": "AA123456",
+        "DisciplinesList": [
+          {
+            "Title": "OOP",
+            "GradesList": [
+              10,
+              40,
+              44
+            ],
+            "FinalGrade": 94
+          },
+          {
+            "Title": "History",
+            "GradesList": [
+              70,
+              20
+            ],
+            "FinalGrade": 90
+          }
+        ]
+      },
+      {
+        "FirstName": "Katerina",
+        "LastName": "Boiko",
+        "StudentID": "AB111111",
+        "DisciplinesList": [
+          {
+            "Title": "OOP",
+            "GradesList": [
+              90,
+              5
+            ],
+            "FinalGrade": 95
+          },
+          {
+            "Title": "History",
+            "GradesList": [
+              70,
+              15
+            ],
+            "FinalGrade": 85
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SE-437",
+    "StudentsList": []
+  },
+  {
+    "Name": "SE-437",
+    "StudentsList": []
+  },
+  {
+    "Name": "SE-437",
+    "StudentsList": []
+  },
+  {
+    "Name": "SE-437",
+    "StudentsList": []
+  },
+  {
+    "Name": "GL-007",
+    "StudentsList": []
+  }
+]

@@ -1,0 +1,7 @@
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\b\BusinessLayer\Debug\netcoreapp3.1\BusinessLayer.deps.json
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\b\BusinessLayer\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\i\BusinessLayer\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\i\BusinessLayer\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\i\BusinessLayer\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\i\BusinessLayer\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\i\BusinessLayer\Debug\netcoreapp3.1\BusinessLayer.dll

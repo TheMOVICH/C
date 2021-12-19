@@ -1,0 +1,36 @@
+E:\oop\work\console\Classes\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+E:\oop\work\console\Classes\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+E:\oop\work\console\Classes\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+E:\oop\work\console\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache
+E:\oop\work\console\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+E:\oop\work\console\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+E:\oop\work\console\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+E:\oop\work\console\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+E:\oop\work\console\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+E:\oop\WORK1\Classes\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+E:\oop\WORK1\Classes\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+E:\oop\WORK1\Classes\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+E:\oop\WORK1\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache
+E:\oop\WORK1\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+E:\oop\WORK1\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+E:\oop\WORK1\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+E:\oop\WORK1\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+E:\oop\WORK1\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+E:\oop\WORK2\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache
+E:\oop\WORK2\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+E:\oop\WORK2\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+E:\oop\WORK2\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+E:\oop\WORK2\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+E:\oop\WORK2\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+E:\oop\WORK2\Classes\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+E:\oop\WORK2\Classes\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+E:\oop\WORK2\Classes\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb

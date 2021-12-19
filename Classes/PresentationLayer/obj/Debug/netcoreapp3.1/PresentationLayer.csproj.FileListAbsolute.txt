@@ -1,0 +1,56 @@
+E:\oop\work\console\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.deps.json
+E:\oop\work\console\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.dll
+E:\oop\work\console\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.pdb
+E:\oop\work\console\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\oop\work\console\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+E:\oop\work\console\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+E:\oop\work\console\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+E:\oop\work\console\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csprojAssemblyReference.cache
+E:\oop\work\console\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfoInputs.cache
+E:\oop\work\console\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfo.cs
+E:\oop\work\console\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\oop\work\console\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csproj.CopyComplete
+E:\oop\work\console\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.dll
+E:\oop\work\console\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.pdb
+E:\oop\WORK1\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.deps.json
+E:\oop\WORK1\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.dll
+E:\oop\WORK1\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.pdb
+E:\oop\WORK1\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\oop\WORK1\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+E:\oop\WORK1\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+E:\oop\WORK1\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+E:\oop\WORK1\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csprojAssemblyReference.cache
+E:\oop\WORK1\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfoInputs.cache
+E:\oop\WORK1\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfo.cs
+E:\oop\WORK1\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\oop\WORK1\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csproj.CopyComplete
+E:\oop\WORK1\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.dll
+E:\oop\WORK1\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.pdb
+E:\oop\WORK2\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csprojAssemblyReference.cache
+E:\oop\WORK2\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfoInputs.cache
+E:\oop\WORK2\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfo.cs
+E:\oop\WORK2\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\oop\WORK2\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.dll
+E:\oop\WORK2\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.pdb
+E:\oop\WORK2\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.deps.json
+E:\oop\WORK2\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.dll
+E:\oop\WORK2\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.pdb
+E:\oop\WORK2\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\oop\WORK2\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+E:\oop\WORK2\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+E:\oop\WORK2\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+E:\oop\WORK2\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csproj.CopyComplete
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.deps.json
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.dll
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\PresentationLayer.pdb
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\PresentationLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.AssemblyInfo.cs
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.csproj.CopyComplete
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.dll
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\PresentationLayer\obj\Debug\netcoreapp3.1\PresentationLayer.pdb

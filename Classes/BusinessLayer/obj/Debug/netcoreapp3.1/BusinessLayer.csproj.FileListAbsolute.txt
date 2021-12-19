@@ -1,0 +1,48 @@
+E:\oop\work\console\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+E:\oop\work\console\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\oop\work\console\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+E:\oop\work\console\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+E:\oop\work\console\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+E:\oop\work\console\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+E:\oop\work\console\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+E:\oop\work\console\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+E:\oop\work\console\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\oop\work\console\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+E:\oop\work\console\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\oop\work\console\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+E:\oop\WORK1\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+E:\oop\WORK1\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\oop\WORK1\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+E:\oop\WORK1\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+E:\oop\WORK1\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+E:\oop\WORK1\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+E:\oop\WORK1\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+E:\oop\WORK1\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+E:\oop\WORK1\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\oop\WORK1\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+E:\oop\WORK1\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\oop\WORK1\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+E:\oop\WORK2\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+E:\oop\WORK2\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\oop\WORK2\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+E:\oop\WORK2\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+E:\oop\WORK2\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+E:\oop\WORK2\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+E:\oop\WORK2\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+E:\oop\WORK2\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+E:\oop\WORK2\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\oop\WORK2\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+E:\oop\WORK2\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\oop\WORK2\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\Nout\OneDrive\Рабочий стол\КУрсач\WORK2\Classes\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

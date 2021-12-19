@@ -1,0 +1,7 @@
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\b\DataLayer\Debug\netcoreapp3.1\DataLayer.deps.json
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\b\DataLayer\Debug\netcoreapp3.1\DataLayer.dll
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\i\DataLayer\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\i\DataLayer\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\i\DataLayer\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\i\DataLayer\Debug\netcoreapp3.1\DataLayer.csproj.CopyComplete
+E:\oop\work\console\Work\.vs\Work\v16\lut\0\i\DataLayer\Debug\netcoreapp3.1\DataLayer.dll
